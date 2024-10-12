@@ -461,7 +461,7 @@
           <mxGeometry x="-130" y="-1990" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="hkUYqx7d3SaLa9oezbLV-158" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://systemdesign.one/url-shortening-system-design/distributed-lock.webp;" vertex="1" parent="1">
-          <mxGeometry x="-170" y="4030" width="1200" height="701" as="geometry" />
+          <mxGeometry x="-100" y="3520" width="700" height="408.92" as="geometry" />
         </mxCell>
         <mxCell id="hkUYqx7d3SaLa9oezbLV-159" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;scalability&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-130" y="1520" width="180" height="120" as="geometry" />
@@ -478,7 +478,10 @@
           </mxCell>
         </UserObject>
         <mxCell id="hkUYqx7d3SaLa9oezbLV-164" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://systemdesign.one/url-shortening-system-design/url-shortener-message-queue.webp;" vertex="1" parent="1">
-          <mxGeometry x="40" y="2860" width="560" height="413" as="geometry" />
+          <mxGeometry x="-30" y="2880" width="560" height="413" as="geometry" />
+        </mxCell>
+        <mxCell id="hkUYqx7d3SaLa9oezbLV-165" value="&lt;h3 style=&quot;scroll-margin-top: calc(var(--header-height) + .5rem); font-size: 1.375rem; margin: 1.2rem 0px; color: rgb(22, 18, 9); font-family: system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, Emoji, Helvetica, Arial, sans-serif; background-color: rgb(255, 255, 255);&quot; class=&quot;headerLink&quot; id=&quot;concurrency&quot;&gt;Concurrency&lt;/h3&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;p style=&quot;margin: 0.5rem 0px; color: rgb(22, 18, 9); font-family: system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, Emoji, Helvetica, Arial, sans-serif; font-size: 16px; font-weight: 400; background-color: rgb(255, 255, 255);&quot;&gt;The KGS must acquire a&amp;nbsp;&lt;a style=&quot;background-color: transparent; text-decoration-line: none; color: rgb(45, 150, 189); overflow-wrap: break-word;&quot; rel=&quot;noopener noreffer&quot; target=&quot;_blank&quot; href=&quot;https://en.wikipedia.org/wiki/Mutual_exclusion&quot;&gt;mutex&lt;/a&gt;&amp;nbsp;(&lt;strong&gt;lock&lt;/strong&gt;) or a&amp;nbsp;&lt;a style=&quot;background-color: transparent; text-decoration-line: none; color: rgb(45, 150, 189); overflow-wrap: break-word;&quot; rel=&quot;noopener noreffer&quot; target=&quot;_blank&quot; href=&quot;https://en.wikipedia.org/wiki/Semaphore_%28programming%29&quot;&gt;semaphore&lt;/a&gt;&amp;nbsp;on the atomic data structure distributing the short URLs to handle concurrency. The lock prevents the distribution of the same short URL to distinct shortening requests from the KGS, resulting in a collision. Multiple data structures distribute the short URL in a single instance of the token service to improve latency. The lock must be released when the short URL is used&lt;/p&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="3320" width="780" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
