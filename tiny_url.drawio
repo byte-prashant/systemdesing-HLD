@@ -9,7 +9,7 @@
             <mxPoint x="420" y="-1765" as="sourcePoint" />
             <mxPoint x="510" y="-1770" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="320" y="-1828" />
+              <mxPoint x="320" y="-1830" />
               <mxPoint x="320" y="-1760" />
             </Array>
           </mxGeometry>
@@ -25,8 +25,8 @@
             <mxPoint x="650" y="-1550" as="sourcePoint" />
             <mxPoint x="700" y="-1600" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="320" y="-1668" />
-              <mxPoint x="320" y="-1592" />
+              <mxPoint x="320" y="-1670" />
+              <mxPoint x="320" y="-1590" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -38,7 +38,7 @@
             <mxPoint x="420" y="-1195" as="sourcePoint" />
             <mxPoint x="510" y="-1200" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="320" y="-1258" />
+              <mxPoint x="320" y="-1260" />
               <mxPoint x="320" y="-1190" />
             </Array>
           </mxGeometry>
@@ -54,8 +54,8 @@
             <mxPoint x="650" y="-980" as="sourcePoint" />
             <mxPoint x="700" y="-1030" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="320" y="-1098" />
-              <mxPoint x="320" y="-1022" />
+              <mxPoint x="320" y="-1100" />
+              <mxPoint x="320" y="-1020" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -78,14 +78,14 @@
           <mxGeometry x="420" y="-1170" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hkUYqx7d3SaLa9oezbLV-17" value="3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="304" y="-1070" width="60" height="30" as="geometry" />
+          <mxGeometry x="300" y="-1070" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hkUYqx7d3SaLa9oezbLV-33" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;noEdgeStyle=1;orthogonal=1;" edge="1" parent="1" source="hkUYqx7d3SaLa9oezbLV-37" target="hkUYqx7d3SaLa9oezbLV-34">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="210" y="-685" as="sourcePoint" />
             <mxPoint x="300" y="-690" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="110" y="-748" />
+              <mxPoint x="110" y="-750" />
               <mxPoint x="110" y="-680" />
             </Array>
           </mxGeometry>
@@ -101,8 +101,8 @@
             <mxPoint x="440" y="-470" as="sourcePoint" />
             <mxPoint x="490" y="-520" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="110" y="-588" />
-              <mxPoint x="110" y="-512" />
+              <mxPoint x="110" y="-590" />
+              <mxPoint x="110" y="-510" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -125,7 +125,7 @@
           <mxGeometry x="210" y="-660" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hkUYqx7d3SaLa9oezbLV-42" value="3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="94" y="-560" width="60" height="30" as="geometry" />
+          <mxGeometry x="90" y="-560" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hkUYqx7d3SaLa9oezbLV-43" value="Token service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="-660" width="120" height="60" as="geometry" />
@@ -161,10 +161,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hkUYqx7d3SaLa9oezbLV-52" value="shard key = hash(short)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="34" y="-580" width="60" height="30" as="geometry" />
+          <mxGeometry x="30" y="-580" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hkUYqx7d3SaLa9oezbLV-53" value="" style="swimlane;startSize=0;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="-715" width="610" height="300" as="geometry" />
+          <mxGeometry x="250" y="-710" width="610" height="300" as="geometry" />
         </mxCell>
         <mxCell id="hkUYqx7d3SaLa9oezbLV-56" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Read Path&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-30" y="-390" width="180" height="120" as="geometry" />
@@ -174,7 +174,7 @@
             <mxPoint x="420" y="-95" as="sourcePoint" />
             <mxPoint x="510" y="-100" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="320" y="-158" />
+              <mxPoint x="320" y="-160" />
               <mxPoint x="320" y="-90" />
             </Array>
           </mxGeometry>
@@ -190,8 +190,8 @@
             <mxPoint x="650" y="120" as="sourcePoint" />
             <mxPoint x="700" y="70" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="320" y="2" />
-              <mxPoint x="320" y="78" />
+              <mxPoint x="320" />
+              <mxPoint x="320" y="80" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -211,13 +211,13 @@
           <mxGeometry x="320" y="-130" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hkUYqx7d3SaLa9oezbLV-66" value="3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="304" y="30" width="60" height="30" as="geometry" />
+          <mxGeometry x="300" y="30" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hkUYqx7d3SaLa9oezbLV-67" value="CDN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="-205" width="120" height="60" as="geometry" />
+          <mxGeometry x="490" y="-200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hkUYqx7d3SaLa9oezbLV-68" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="400" y="-205" width="60" height="30" as="geometry" />
+          <mxGeometry x="400" y="-200" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hkUYqx7d3SaLa9oezbLV-69" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="hkUYqx7d3SaLa9oezbLV-61" target="hkUYqx7d3SaLa9oezbLV-67">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -326,7 +326,7 @@
             <mxPoint x="430" y="985" as="sourcePoint" />
             <mxPoint x="520" y="980" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="330" y="922" />
+              <mxPoint x="330" y="920" />
               <mxPoint x="330" y="990" />
             </Array>
           </mxGeometry>
@@ -342,8 +342,8 @@
             <mxPoint x="660" y="1200" as="sourcePoint" />
             <mxPoint x="710" y="1150" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="330" y="1082" />
-              <mxPoint x="330" y="1158" />
+              <mxPoint x="330" y="1080" />
+              <mxPoint x="330" y="1160" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -363,13 +363,13 @@
           <mxGeometry x="330" y="950" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hkUYqx7d3SaLa9oezbLV-131" value="5" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="314" y="1110" width="60" height="30" as="geometry" />
+          <mxGeometry x="310" y="1110" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hkUYqx7d3SaLa9oezbLV-132" value="CDN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="875" width="120" height="60" as="geometry" />
+          <mxGeometry x="500" y="880" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hkUYqx7d3SaLa9oezbLV-133" value="2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="410" y="875" width="60" height="30" as="geometry" />
+          <mxGeometry x="410" y="880" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hkUYqx7d3SaLa9oezbLV-134" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="hkUYqx7d3SaLa9oezbLV-127" target="hkUYqx7d3SaLa9oezbLV-132">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -414,7 +414,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hkUYqx7d3SaLa9oezbLV-144" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="410" y="815" width="60" height="30" as="geometry" />
+          <mxGeometry x="410" y="820" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hkUYqx7d3SaLa9oezbLV-145" value="rate limiter" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="1050" width="120" height="60" as="geometry" />
@@ -467,30 +467,30 @@
           <mxGeometry x="-130" y="1520" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="hkUYqx7d3SaLa9oezbLV-160" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://systemdesign.one/url-shortening-system-design/segregated-read-write-paths.webp;" vertex="1" parent="1">
-          <mxGeometry x="-51" y="1598" width="661" height="478.83" as="geometry" />
+          <mxGeometry x="-50" y="1600" width="660" height="480" as="geometry" />
         </mxCell>
         <mxCell id="hkUYqx7d3SaLa9oezbLV-161" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Fault tolerant&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-110" y="2570" width="180" height="120" as="geometry" />
         </mxCell>
         <UserObject label="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;p style=&quot;margin: 0.5rem 0px; color: rgb(22, 18, 9); font-family: system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, Emoji, Helvetica, Arial, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;The microservices architecture improves the fault tolerance of the system. The microservices are isolated from each other and the services will fail independently. Simply put, a service failure means reduced functionality without the whole system going down. For instance, the failure of a metric service will not affect the URL redirection requests. The&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;a style=&quot;background-color: transparent; text-decoration: none; color: rgb(45, 150, 189); overflow-wrap: break-word;&quot; rel=&quot;noopener noreffer&quot; target=&quot;_blank&quot; href=&quot;https://en.wikipedia.org/wiki/Event-driven_architecture&quot;&gt;event-driven architecture&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;also helps to isolate the services and improve the reliability of the system, and scale by naturally supporting multiple consumers&lt;sup style=&quot;font-size: 12px; line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; scroll-margin-top: calc(var(--header-height) + .5rem);&quot; id=&quot;fnref:12&quot;&gt;&lt;a style=&quot;background-color: transparent; text-decoration: none; color: rgb(45, 150, 189); overflow-wrap: break-word;&quot; role=&quot;doc-noteref&quot; class=&quot;footnote-ref&quot; href=&quot;https://systemdesign.one/url-shortening-system-design/#fn:12&quot;&gt;12&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;&lt;p style=&quot;margin: 0.5rem 0px; color: rgb(22, 18, 9); font-family: system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, Emoji, Helvetica, Arial, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;The introduction of a message queue such as&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;a style=&quot;background-color: transparent; text-decoration: none; color: rgb(45, 150, 189); overflow-wrap: break-word;&quot; rel=&quot;noopener noreffer&quot; target=&quot;_blank&quot; href=&quot;https://kafka.apache.org/&quot;&gt;Apache Kafka&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;further improves the fault tolerance of the URL shortener. The message queue must be provisioned in the write and read paths of the system. However, the message queue must be&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;a style=&quot;background-color: transparent; text-decoration: none; color: rgb(45, 150, 189); overflow-wrap: break-word;&quot; rel=&quot;noopener noreffer&quot; target=&quot;_blank&quot; href=&quot;https://en.wikipedia.org/wiki/Application_checkpointing&quot;&gt;checkpointed&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;frequently for reliability&lt;/p&gt;" link="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;p style=&quot;margin: 0.5rem 0px; color: rgb(22, 18, 9); font-family: system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, Emoji, Helvetica, Arial, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;The microservices architecture improves the fault tolerance of the system. The microservices are isolated from each other and the services will fail independently. Simply put, a service failure means reduced functionality without the whole system going down. For instance, the failure of a metric service will not affect the URL redirection requests. The&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;a style=&quot;background-color: transparent; text-decoration: none; color: rgb(45, 150, 189); overflow-wrap: break-word;&quot; rel=&quot;noopener noreffer&quot; target=&quot;_blank&quot; href=&quot;https://en.wikipedia.org/wiki/Event-driven_architecture&quot;&gt;event-driven architecture&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;also helps to isolate the services and improve the reliability of the system, and scale by naturally supporting multiple consumers&lt;sup style=&quot;font-size: 12px; line-height: 0; position: relative; vertical-align: baseline; top: -0.5em; scroll-margin-top: calc(var(--header-height) + .5rem);&quot; id=&quot;fnref:12&quot;&gt;&lt;a style=&quot;background-color: transparent; text-decoration: none; color: rgb(45, 150, 189); overflow-wrap: break-word;&quot; role=&quot;doc-noteref&quot; class=&quot;footnote-ref&quot; href=&quot;https://systemdesign.one/url-shortening-system-design/#fn:12&quot;&gt;12&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;&lt;p style=&quot;margin: 0.5rem 0px; color: rgb(22, 18, 9); font-family: system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, Emoji, Helvetica, Arial, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;The introduction of a message queue such as&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;a style=&quot;background-color: transparent; text-decoration: none; color: rgb(45, 150, 189); overflow-wrap: break-word;&quot; rel=&quot;noopener noreffer&quot; target=&quot;_blank&quot; href=&quot;https://kafka.apache.org/&quot;&gt;Apache Kafka&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;further improves the fault tolerance of the URL shortener. The message queue must be provisioned in the write and read paths of the system. However, the message queue must be&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;a style=&quot;background-color: transparent; text-decoration: none; color: rgb(45, 150, 189); overflow-wrap: break-word;&quot; rel=&quot;noopener noreffer&quot; target=&quot;_blank&quot; href=&quot;https://en.wikipedia.org/wiki/Application_checkpointing&quot;&gt;checkpointed&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;frequently for reliability&lt;/p&gt;" id="hkUYqx7d3SaLa9oezbLV-163">
           <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-            <mxGeometry x="-90" y="2615" width="860" height="265" as="geometry" />
+            <mxGeometry x="-90" y="2620" width="860" height="270" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="hkUYqx7d3SaLa9oezbLV-164" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://systemdesign.one/url-shortening-system-design/url-shortener-message-queue.webp;" vertex="1" parent="1">
-          <mxGeometry x="-30" y="2880" width="560" height="413" as="geometry" />
+          <mxGeometry x="-30" y="2880" width="560" height="410" as="geometry" />
         </mxCell>
         <mxCell id="hkUYqx7d3SaLa9oezbLV-165" value="&lt;h3 style=&quot;scroll-margin-top: calc(var(--header-height) + .5rem); font-size: 1.375rem; margin: 1.2rem 0px; color: rgb(22, 18, 9); font-family: system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, Emoji, Helvetica, Arial, sans-serif; background-color: rgb(255, 255, 255);&quot; class=&quot;headerLink&quot; id=&quot;concurrency&quot;&gt;Concurrency&lt;/h3&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;p style=&quot;margin: 0.5rem 0px; color: rgb(22, 18, 9); font-family: system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, Emoji, Helvetica, Arial, sans-serif; font-size: 16px; font-weight: 400; background-color: rgb(255, 255, 255);&quot;&gt;The KGS must acquire a&amp;nbsp;&lt;a style=&quot;background-color: transparent; text-decoration-line: none; color: rgb(45, 150, 189); overflow-wrap: break-word;&quot; rel=&quot;noopener noreffer&quot; target=&quot;_blank&quot; href=&quot;https://en.wikipedia.org/wiki/Mutual_exclusion&quot;&gt;mutex&lt;/a&gt;&amp;nbsp;(&lt;strong&gt;lock&lt;/strong&gt;) or a&amp;nbsp;&lt;a style=&quot;background-color: transparent; text-decoration-line: none; color: rgb(45, 150, 189); overflow-wrap: break-word;&quot; rel=&quot;noopener noreffer&quot; target=&quot;_blank&quot; href=&quot;https://en.wikipedia.org/wiki/Semaphore_%28programming%29&quot;&gt;semaphore&lt;/a&gt;&amp;nbsp;on the atomic data structure distributing the short URLs to handle concurrency. The lock prevents the distribution of the same short URL to distinct shortening requests from the KGS, resulting in a collision. Multiple data structures distribute the short URL in a single instance of the token service to improve latency. The lock must be released when the short URL is used&lt;/p&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-100" y="3320" width="780" height="160" as="geometry" />
         </mxCell>
         <mxCell id="hkUYqx7d3SaLa9oezbLV-166" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://systemdesign.one/url-shortening-system-design/url-shortener-analytics.webp;" vertex="1" parent="1">
-          <mxGeometry x="-80" y="4130" width="687.5" height="333.1" as="geometry" />
+          <mxGeometry x="-80" y="4130" width="690" height="330" as="geometry" />
         </mxCell>
         <mxCell id="hkUYqx7d3SaLa9oezbLV-167" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Analytics&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-121.25" y="3960" width="770" height="120" as="geometry" />
+          <mxGeometry x="-120" y="3960" width="770" height="120" as="geometry" />
         </mxCell>
         <mxCell id="hkUYqx7d3SaLa9oezbLV-169" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;ol style=&quot;margin: 0.5rem 0px; padding-left: 2.5rem; color: rgb(22, 18, 9); font-family: system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, Emoji, Helvetica, Arial, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;li&gt;The client requests a URL redirection&lt;/li&gt;&lt;li&gt;The server responds with the long URL&lt;/li&gt;&lt;li&gt;The server puts a message on the message queue&lt;/li&gt;&lt;li&gt;The archive service executes a batch operation to move messages from the message queue to HDFS&lt;/li&gt;&lt;li&gt;Hadoop is executed on the collected data on HDFS to generate offline analytics&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-121.25" y="4005" width="741.25" height="135" as="geometry" />
+          <mxGeometry x="-120" y="4010" width="740" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
