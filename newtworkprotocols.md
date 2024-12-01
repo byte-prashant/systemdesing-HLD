@@ -23,5 +23,4 @@
 | **CoAP**        | IoT communication in constrained networks.                                                      | Limited to simple devices; not suitable for high-bandwidth scenarios.                           | Lightweight; works well with resource-constrained devices.                        | Sacrifices throughput for low overhead.                                                                                | Low                     | Smart home devices      |
 
 ---
-
-Feel free to copy and paste this table into your `README.md` file. Let me know if you'd like any adjustments or additional formatting! 🚀
+🚀
